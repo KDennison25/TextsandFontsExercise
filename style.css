@@ -1,0 +1,37 @@
+ body {
+    font-family: 'Orbitron', sans-serif;
+ }
+
+ span {
+    font-style: bold;
+ }
+
+ h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+ }
+
+ div:nth-of-type(1) {
+    font-size: 20px;
+ }
+ 
+ h2 {
+    font-size: 40px;
+ }
+
+ li {
+    letter-spacing: 2px;
+ }
+
+ div:nth-of-type(2) {
+    font-size: 18px;
+ }
+
+ h4 {
+    letter-spacing: 15px;
+ }
+
+
